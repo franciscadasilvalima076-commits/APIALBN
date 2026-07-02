@@ -1,0 +1,138 @@
+{
+  "balances": [
+    {
+      "asset": "USDT",
+      "free": 107.49993159,
+      "locked": 0
+    }
+  ],
+  "positions": [
+    {
+      "symbol": "BTCUSDT",
+      "side": "LONG",
+      "quantity": 0.05,
+      "entryPrice": 64855.6,
+      "markPrice": 65072.5,
+      "liquidationPrice": 45398.92,
+      "margin": 324.278,
+      "marginType": "CROSS",
+      "leverage": 10,
+      "unrealizedPnl": 10.85,
+      "unrealizedPnlPercent": 3.34
+    },
+    {
+      "symbol": "SOLUSDT",
+      "side": "LONG",
+      "quantity": 10,
+      "entryPrice": 145.37,
+      "markPrice": 144.62,
+      "liquidationPrice": 101.759,
+      "margin": 145.37,
+      "marginType": "CROSS",
+      "leverage": 10,
+      "unrealizedPnl": -7.5,
+      "unrealizedPnlPercent": -5.16
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-rnv3w1qcf",
+      "symbol": "SOLUSDT",
+      "type": "MARKET",
+      "side": "BUY",
+      "price": 145.37,
+      "quantity": 10,
+      "executedQty": 10,
+      "status": "FILLED",
+      "timestamp": 1782953291959,
+      "clientOrderId": "cl-ord-1782953291959"
+    },
+    {
+      "id": "ord-r6kd79k9g",
+      "symbol": "SOLUSDT",
+      "type": "MARKET",
+      "side": "SELL",
+      "price": 145.21,
+      "quantity": 10,
+      "executedQty": 10,
+      "status": "FILLED",
+      "timestamp": 1782953271949,
+      "clientOrderId": "cl-ord-1782953271949"
+    },
+    {
+      "id": "ord-xkxp4u6yj",
+      "symbol": "SOLUSDT",
+      "type": "MARKET",
+      "side": "BUY",
+      "price": 145.36,
+      "quantity": 10,
+      "executedQty": 10,
+      "status": "FILLED",
+      "timestamp": 1782953241929,
+      "clientOrderId": "cl-ord-1782953241929"
+    },
+    {
+      "id": "ord-z5hv918bw",
+      "symbol": "ETHUSDT",
+      "type": "MARKET",
+      "side": "SELL",
+      "price": 3441.4,
+      "quantity": 0.8,
+      "executedQty": 0.8,
+      "status": "FILLED",
+      "timestamp": 1782952992014,
+      "clientOrderId": "cl-ord-1782952992014"
+    },
+    {
+      "id": "ord-r243j6tec",
+      "symbol": "ETHUSDT",
+      "type": "MARKET",
+      "side": "BUY",
+      "price": 3449.5,
+      "quantity": 0.8,
+      "executedQty": 0.8,
+      "status": "FILLED",
+      "timestamp": 1782952881927,
+      "clientOrderId": "cl-ord-1782952881927"
+    },
+    {
+      "id": "ord-ohybt7k3q",
+      "symbol": "BTCUSDT",
+      "type": "MARKET",
+      "side": "BUY",
+      "price": 64855.6,
+      "quantity": 0.05,
+      "executedQty": 0.05,
+      "status": "FILLED",
+      "timestamp": 1782952761830,
+      "clientOrderId": "cl-ord-1782952761830"
+    },
+    {
+      "id": "ord-2annairqw",
+      "symbol": "BTCUSDT",
+      "type": "MARKET",
+      "side": "SELL",
+      "price": 64903.8,
+      "quantity": 0.05,
+      "executedQty": 0.05,
+      "status": "FILLED",
+      "timestamp": 1782952711785,
+      "clientOrderId": "cl-ord-1782952711785"
+    },
+    {
+      "id": "ord-a13utmkkj",
+      "symbol": "BTCUSDT",
+      "type": "MARKET",
+      "side": "BUY",
+      "price": 64930.6,
+      "quantity": 0.05,
+      "executedQty": 0.05,
+      "status": "FILLED",
+      "timestamp": 1782952671771,
+      "clientOrderId": "cl-ord-1782952671771"
+    }
+  ],
+  "performanceLogs": [],
+  "emergencyKillSwitch": false,
+  "updatedAt": 1782954360830
+}

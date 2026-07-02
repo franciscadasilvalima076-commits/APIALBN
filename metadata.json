@@ -1,0 +1,6 @@
+{
+  "name": "Titan AI Quant",
+  "description": "Plataforma Profissional de Trading Algorítmico com Inteligência Artificial, Confluência de Estratégias (SMC/ICT), e Gerenciamento de Risco Avançado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

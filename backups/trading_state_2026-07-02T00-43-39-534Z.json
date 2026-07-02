@@ -1,0 +1,104 @@
+{
+  "balances": [
+    {
+      "asset": "USDT",
+      "free": 96749.4,
+      "locked": 0
+    },
+    {
+      "asset": "BTC",
+      "free": 0.05,
+      "locked": 0
+    },
+    {
+      "asset": "ETH",
+      "free": 0,
+      "locked": 0
+    },
+    {
+      "asset": "SOL",
+      "free": 0,
+      "locked": 0
+    }
+  ],
+  "positions": [
+    {
+      "symbol": "BTCUSDT",
+      "side": "LONG",
+      "quantity": 0.05,
+      "entryPrice": 64855.6,
+      "markPrice": 64801.5,
+      "liquidationPrice": 45398.92,
+      "margin": 324.278,
+      "marginType": "CROSS",
+      "leverage": 10,
+      "unrealizedPnl": -2.7,
+      "unrealizedPnlPercent": -0.83
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-z5hv918bw",
+      "symbol": "ETHUSDT",
+      "type": "MARKET",
+      "side": "SELL",
+      "price": 3441.4,
+      "quantity": 0.8,
+      "executedQty": 0.8,
+      "status": "FILLED",
+      "timestamp": 1782952992014,
+      "clientOrderId": "cl-ord-1782952992014"
+    },
+    {
+      "id": "ord-r243j6tec",
+      "symbol": "ETHUSDT",
+      "type": "MARKET",
+      "side": "BUY",
+      "price": 3449.5,
+      "quantity": 0.8,
+      "executedQty": 0.8,
+      "status": "FILLED",
+      "timestamp": 1782952881927,
+      "clientOrderId": "cl-ord-1782952881927"
+    },
+    {
+      "id": "ord-ohybt7k3q",
+      "symbol": "BTCUSDT",
+      "type": "MARKET",
+      "side": "BUY",
+      "price": 64855.6,
+      "quantity": 0.05,
+      "executedQty": 0.05,
+      "status": "FILLED",
+      "timestamp": 1782952761830,
+      "clientOrderId": "cl-ord-1782952761830"
+    },
+    {
+      "id": "ord-2annairqw",
+      "symbol": "BTCUSDT",
+      "type": "MARKET",
+      "side": "SELL",
+      "price": 64903.8,
+      "quantity": 0.05,
+      "executedQty": 0.05,
+      "status": "FILLED",
+      "timestamp": 1782952711785,
+      "clientOrderId": "cl-ord-1782952711785"
+    },
+    {
+      "id": "ord-a13utmkkj",
+      "symbol": "BTCUSDT",
+      "type": "MARKET",
+      "side": "BUY",
+      "price": 64930.6,
+      "quantity": 0.05,
+      "executedQty": 0.05,
+      "status": "FILLED",
+      "timestamp": 1782952671771,
+      "clientOrderId": "cl-ord-1782952671771"
+    }
+  ],
+  "performanceLogs": [],
+  "emergencyKillSwitch": false,
+  "updatedAt": 1782952992014
+}
